@@ -1,6 +1,6 @@
 // MyArubaPlan Service Worker
 // Change this version number every time you update the app
-var CACHE_VERSION = 'myarubaplan-v1.0';
+var CACHE_VERSION = 'myarubaplan-v1.1';
 var CACHE_FILES = ['./'];
 
 // Install - cache the app
